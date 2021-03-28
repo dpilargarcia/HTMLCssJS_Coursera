@@ -1,11 +1,12 @@
-Coursera course: HTML, CSS, and Javascript for Web Developers.
+**Coursera course: HTML, CSS, and Javascript for Web Developers.**
 
 Desarrollo de los contenidos vistos en el curso.
+Contrucción de una página web para un restaurante.
 
 
-Enlace: https://pilargarcialugo.github.io/HTMLCssJS_Coursera/
+Contenidos del curso: https://pilargarcialugo.github.io/HTMLCssJS_Coursera/
 
-Enlace solución último módulo: https://pilargarcialugo.github.io/HTMLCssJS_Coursera/Module5_Solution/index.html
+Solución último módulo: https://pilargarcialugo.github.io/HTMLCssJS_Coursera/Module5_Solution/index.html
 
 
 
