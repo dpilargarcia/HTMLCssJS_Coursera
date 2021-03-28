@@ -1,13 +1,10 @@
-**Coursera course: HTML, CSS, and Javascript for Web Developers.**
+#Coursera course: HTML, CSS, and Javascript for Web Developers
 
-Desarrollo de los contenidos vistos en el curso.
-Contrucción de una página web para un restaurante.
+Desarrollo de los contenidos vistos en el curso: se desarrolla una página web para un restaurante.
 
+**Ejercicios desarrollados en cada módulo:** <h6><a href="https://pilargarcialugo.github.io/web-page-html-css-js-coursera-course/" target="_blank">¡GO!</a></h6> 
 
-Contenidos del curso: https://pilargarcialugo.github.io/HTMLCssJS_Coursera/
-
-Solución último módulo: https://pilargarcialugo.github.io/HTMLCssJS_Coursera/Module5_Solution/index.html
-
+**Página del restuarante:** <h6><a href="https://pilargarcialugo.github.io/web-page-html-css-js-coursera-course/Module5_Solution/index.html" target="_blank">¡GO!</a></h6>
 
 
 By Pilar García.
